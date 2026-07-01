@@ -1,0 +1,68 @@
+.mbot{
+    margin-bottom:px !important;
+
+}
+.red{
+    background-color: coral;
+}
+.purple{
+    background-color:  #7C4EE4;
+;
+}
+.height{
+    height: 100vh;
+    background-color: #7C4EE4  !important;
+}
+.marginl{
+    margin-left: 0px !important;
+}
+.marginr{
+    padding-: 90px !important;
+}
+.maar{
+    margin-left: 150px !important;
+}
+.maarR{
+    margin-right: 100px !important;
+}
+.mmm{
+    margin-right: 110px !important;
+}
+.nnn{
+    margin-left: 30px !important;
+}
+.nml{
+    margin-left: 35px  !important;
+}
+.nmr{
+    margin-right: 190px !important;
+}
+.znml{
+    margin-left: 180px !important;
+}
+.cbutt{
+    border:1px solid #7C4EE4 !important;
+    outline: #7C4EE4 !important;
+    
+    color: #7C4EE4 !important;
+    background-color: white !important;
+}
+.cgapp{
+   margin-right: 20px !important;
+}
+.greyy{
+    color: #999999  !important;
+;
+}
+.dgrey{
+    color:  #666666 !important;
+;
+}
+.purple:hover{
+    
+     background-color: white !important;
+
+    color: black  !important;
+    border-color: purple !important;
+  
+}
