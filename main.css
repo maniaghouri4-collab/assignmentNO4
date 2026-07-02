@@ -1,4 +1,4 @@
-.mbot{
+/* .mbot{
     margin-bottom:px !important;
 
 }
@@ -65,4 +65,7 @@
     color: black  !important;
     border-color: purple !important;
   
+} */
+.purple{
+    background-color: #7C4EE4!important;
 }
